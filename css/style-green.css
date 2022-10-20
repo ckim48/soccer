@@ -1271,17 +1271,16 @@ footer .credits a {
   color: white;
   background-color: green;
 }
-.card-contact{
-  margin-left: 18rem;
-  margin-right: 18rem;
-}
+
 .bold{
   font-weight: bold;
 }
 .copyright-box{
   color: black;
 }
-
+.card-intro{
+  background-color: #F1F1F1;
+}
 
 .dot{
   color: #24b67e;
@@ -1289,4 +1288,22 @@ footer .credits a {
 .title-span{
  color: #24b67e;
 }
+.card-contact{
+  margin-left: 18rem;
+  margin-right: 18rem;
+  background-color: #F1F1F1;
+}
+.btn-info{
+  background-color: #24b67e;;
+}
+@media (max-width: 1200px) {
 
+.card-contact{
+  margin-left: 5rem;
+  margin-right: 5rem;
+  background-color: #F1F1F1;
+}
+.project-img{
+  margin-top: 30px;
+}
+}
