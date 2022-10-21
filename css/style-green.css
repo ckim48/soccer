@@ -1265,6 +1265,8 @@ footer .credits a {
 }
 .btn-start{
   color: black;
+  padding: 12px;
+  font-size: 18px;
   background-color: white;
 }
 .btn-start:hover{
@@ -1306,4 +1308,7 @@ footer .credits a {
 .project-img{
   margin-top: 30px;
 }
+}
+.mt-8{
+  margin-top: 5rem;
 }
